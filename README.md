@@ -1,2 +1,2 @@
 # Qualtrics2GSheetsAndDB
-Import Qualtrics Survey to Google Sheets or DB
+Import Qualtrics Survey Data to Google Sheets or DB using NodeJS
